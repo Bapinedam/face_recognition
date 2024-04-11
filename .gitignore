@@ -139,3 +139,7 @@ cython_debug/
 
 # Exclude data from source control by default
 /data/
+
+# Modelos
+
+.yml
